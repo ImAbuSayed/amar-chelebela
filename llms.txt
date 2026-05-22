@@ -21,7 +21,7 @@
 | **Released On** | May 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amar-chelebela/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Amar Chelebela](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=TPTvCjC7wEo?https://imabusayed.github.io/amar-chelebela/) |
+| **Get License** | [Request Licensing for Amar Chelebela](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=TPTvCjC7wEo?https://imabusayed.github.io/amar-chelebela/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
