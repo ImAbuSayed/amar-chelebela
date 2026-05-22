@@ -8,16 +8,16 @@
   "public_repo_url": "https://github.com/ImAbuSayed/amar-chelebela",
   "gist_url": null,
   "telegram_post_url": "https://t.me/AbuSayedMusic/1891",
-  "youtube_link": null,
-  "spotify_link": null,
-  "apple_music_link": null,
-  "website_link": null,
+  "youtube_link": "https://www.youtube.com/watch?v=TPTvCjC7wEo",
+  "spotify_link": "",
+  "apple_music_link": "",
+  "website_link": "",
   "feature_image_url": "https://abusayed.com.bd/wp-content/uploads/2026/05/Amar-Chelebela-scaled.webp",
   "sha256_hash": "5485748301bda03917e7f94afac4ed4bb841af8a2e66fc120e91da0436d1ae9f",
   "sha256_raw_hash": "c01fc0bf157eede711c7fb54e37ae6c6e58b0af60141233a8c0956b20f49eefa",
   "lyric_version": 1,
   "proof_timestamp": "2026-05-22T11:28:44.466712",
-  "song_creation_date": null,
-  "official_release_date": null,
-  "generated_at": "2026-05-22T05:30:39Z"
+  "song_creation_date": "2026-05-22",
+  "official_release_date": "2026-05-22",
+  "generated_at": "2026-05-22T05:34:38Z"
 }
