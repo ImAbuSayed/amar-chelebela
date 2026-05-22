@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amar Chelebela
+
+This log tracks the cryptographic history and versioning for the song **Amar Chelebela** (amar-chelebela).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T11:28:44.466712 | `v1` | `5485748301bda03917e7f94afac4ed4bb841af8a2e66fc120e91da0436d1ae9f` | `c01fc0bf157eede711c7fb54e37ae6c6e58b0af60141233a8c0956b20f49eefa` | `2026-05-22_amar-chelebela-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
